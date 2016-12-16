@@ -1,2 +1,2 @@
-# CellFormatter
-ECL Bundle for formatting cells
+# Trigram
+ECL Bundle for trigram manipulation
